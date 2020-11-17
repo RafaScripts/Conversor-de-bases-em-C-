@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oollnvxZQcpJbEvVm2Tw80XoVsYbGZZgDhnDAUpWllPkNcCBPGB+JMT8Rz4SDAUguWG8V8hSIvf3SBo4WDuIPw==",
+  "success": true,
+  "projectFilePath": "/Users/rafael/Projects/Conversor_de_Base/Conversor_de_Base/Conversor_de_Base.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafael/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
